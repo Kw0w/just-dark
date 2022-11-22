@@ -1,0 +1,21 @@
+{
+  "name": "just-dark",
+  "displayName": "Just Dark",
+  "description": "Just Dark",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Just Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Just Dark-color-theme.json"
+      }
+    ]
+  }
+}
