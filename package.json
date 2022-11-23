@@ -17,6 +17,7 @@
     "just dark",
     "dark"
   ],
+  "icon": "assets/128.jpg",
   "engines": {
     "vscode": "^1.73.0"
   },
