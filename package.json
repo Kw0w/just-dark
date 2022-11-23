@@ -1,8 +1,19 @@
 {
   "name": "just-dark",
   "displayName": "Just Dark",
-  "description": "Just Dark",
-  "version": "0.0.1",
+	"description": "Not good but also not that bad dark theme.",
+	"version": "0.1.1",
+	"publisher": "FallenDreamsStudio",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Kw0w/just-dark"
+	},
+	"keywords": [
+		"theme",
+		"dark theme",
+		"just dark",
+		"dark"
+	],
   "engines": {
     "vscode": "^1.73.0"
   },
