@@ -2,8 +2,11 @@
   "name": "just-dark",
   "displayName": "Just Dark",
 	"description": "Not good but also not that bad dark theme.",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"publisher": "FallenDreamsStudio",
+  "author": {
+    "name": "Fallen Dreams Studio"
+  },
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/Kw0w/just-dark"
