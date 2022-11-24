@@ -2,15 +2,15 @@
 
 ## HTML
 
-![html](./assets/snip1.PNG)
+![html](/assets/snip1.PNG)
 
 ## CSS
 
-![css](./assets/snip2.PNG)
+![css](/assets/snip2.PNG)
 
 ## JAVASCRIPT
 
-![js](./assets/snip3.PNG)
+![js](/assets/snip3.PNG)
 
 ## Overview
 
