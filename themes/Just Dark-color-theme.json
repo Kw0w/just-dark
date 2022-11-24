@@ -792,7 +792,7 @@
 		"name": "Attribute IDs",
 		"scope": "entity.other.attribute-name.id",
 		"settings": {
-		  "fontStyle": "",
+		  "fontStyle": "normal",
 		  "foreground": "#119bff"
 		}
 	  },
@@ -800,7 +800,7 @@
 		"name": "Attribute class",
 		"scope": "entity.other.attribute-name.class.css",
 		"settings": {
-		  "fontStyle": "",
+		  "fontStyle": "normal",
 		  "foreground": "#ff5a5a"
 		}
 	  },
@@ -1943,9 +1943,11 @@
 	  "editor.lineHighlightBorder": "#3f444f",
 	  "editorLineNumber.activeForeground": "#00c3ff",
 	  "editorLink.activeForeground": "#008bff",
-	  "editorIndentGuide.background": "#ffffff72",
-	  "editorIndentGuide.activeBackground": "#ffffffa3",
+	  "editorIndentGuide.background": "#464b58",
+	  "editorIndentGuide.activeBackground": "#464b58",
 	  "editorRuler.foreground": "#3d424f",
+	  "editorBracketMatch.background": "#0064001a",
+	  "editorBracketMatch.border": "#ffffff",
 	  "editor.foldBackground": "#264f784d",
 	  "editorOverviewRuler.background": "#25252500",
 	  "editorOverviewRuler.border": "#7f7f7f4d",
@@ -2103,9 +2105,6 @@
 	  "editorGutter.commentRangeForeground": "#47d4ff",
 	  "debugExceptionWidget.background": "#1e2025",
 	  "debugExceptionWidget.border": "#1e2025",
-
-	  "editorBracketMatch.background": "#0064001a",
-	  "editorBracketMatch.border": "#ffffff",
       "editorBracketHighlight.foreground1": "#ffffff",
     "editorBracketHighlight.foreground2": "#ffffff",
     "editorBracketHighlight.foreground3": "#81a1c1",
@@ -2115,3 +2114,4 @@
       "editorBracketHighlight.unexpectedBracket.foreground": "#bf616a",
 	}
   }
+  
