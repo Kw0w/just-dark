@@ -2,15 +2,15 @@
 
 ## HTML
 
-![html](./assets/snip1.PNG)
+![html](https://drive.google.com/file/d/1RMJRswnCbYvX7Wmn7UFqgXBZSVKeOrT2/view?usp=share_link)
 
 ## CSS
 
-![css](./assets/snip2.PNG)
+![css](https://drive.google.com/file/d/1xV_-s67Fv8TGQxmZf8Azbte3B7iYNdN_/view?usp=share_link)
 
 ## JAVASCRIPT
 
-![js](./assets/snip3.PNG)
+![js](https://drive.google.com/file/d/1BnuXlGK8Erd5GaXke0fVH1G9Uc_8dw8j/view?usp=share_link)
 
 ## Overview
 
