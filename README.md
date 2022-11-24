@@ -16,7 +16,7 @@
 
 Theme is still in early development.
 
-# Install project
+## Source Code
 
 ## Clone
 
