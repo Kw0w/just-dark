@@ -2,15 +2,15 @@
 
 ## HTML
 
-![html](https://raw.githubusercontent.com/Kw0w/just-dark/main/assets/snip1.PNG?token=GHSAT0AAAAAAB3IUABNN5XP6V3B4AZTYJPCY37UUZQ)
+![html](./assets/snip1.PNG)
 
 ## CSS
 
-![css](https://raw.githubusercontent.com/Kw0w/just-dark/main/assets/snip2.PNG?token=GHSAT0AAAAAAB3IUABMHIE36M55GTNLBGIYY37UVIQ)
+![css](./assets/snip2.PNG)
 
 ## JAVASCRIPT
 
-![js](https://raw.githubusercontent.com/Kw0w/just-dark/main/assets/snip3.PNG?token=GHSAT0AAAAAAB3IUABM54UYKDGJRQQJYP2GY37UVPQ)
+![js](./assets/snip3.PNG)
 
 ## Overview
 
